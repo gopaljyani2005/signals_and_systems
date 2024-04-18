@@ -11,7 +11,7 @@ About the project.
 1. Clone the repository to your local machine:
 
 ```
-git clone 
+git clone https://github.com/gopaljyani2005/signals_and_systems.git
 ```
 
 2. Install the required dependencies:
